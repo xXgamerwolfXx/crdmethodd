@@ -1,3 +1,4 @@
-# gettoVDS
-21.02.2023 Kontrol Edilmiştir
-https://discord.gg/gettodigital - https://youtube.com/gettovds - https://youtube.com/@gettoreal
+# Windows Server 2022 With Github Actions
+TESTED, WORKING 
+Credits By github.com/UserOfGTG
+WARNING: IF YOU MINE IN THIS CRD YOUR AND MY REPOSITORY GET BANNED.
